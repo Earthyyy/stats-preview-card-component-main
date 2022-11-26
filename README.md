@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Stats preview card by Earthyy](...)
+- Live Site URL: [Stats preview card by Earthyy](https://earthyy-stats-preview-card.netlify.app/)
 
 ## My process
 
